@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57a3ecb1ae8759d4b946c8a572aa1a62, type: 3}
+  m_Name: BuildingsIcons
+  m_EditorClassIdentifier: 
+  resources:
+  - {fileID: 21300000, guid: da1a3952b40488b4f95962799cc13760, type: 3}
+  - {fileID: 21300000, guid: dd6eec8001a4ddb47bcdfd0a0ecb43a2, type: 3}
+  - {fileID: 21300000, guid: 4e8c319e1beb16548abae521e68a521e, type: 3}
+  - {fileID: 21300000, guid: 99105b8228be7ef46a7b5d8e400e02a0, type: 3}
+  - {fileID: 21300000, guid: fc30c7864cbb275478d1e9017ca22456, type: 3}

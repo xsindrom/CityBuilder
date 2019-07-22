@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9629f8a0bfe3bb545bdabc5540f12a01, type: 3}
+  m_Name: WindowsStorage
+  m_EditorClassIdentifier: 
+  windows:
+  - {fileID: 4612054155765508177, guid: da533100712ba2f49a10b64f7dc838b0, type: 3}
+  - {fileID: 7149802319829436817, guid: 8917a578e7ef3754ea9ca93063c2069f, type: 3}
+  - {fileID: 8382658138693222260, guid: a9fd4980224a6204390847c4418bf164, type: 3}
+  - {fileID: 7040274910284709882, guid: 8fc818e42372d43488622e6c0cdc07b3, type: 3}
